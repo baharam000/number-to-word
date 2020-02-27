@@ -1,0 +1,19 @@
+{
+    "name": "media365/numt-to-word",
+    "description": "This package convert a number to word",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mizbah Ahsan",
+            "email": "baharam000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Media365\\NumToWord": "src\\"
+        }
+    },
+    "require": {}
+}
