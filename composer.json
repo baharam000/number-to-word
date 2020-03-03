@@ -1,5 +1,5 @@
 {
-    "name": "jarvishubtech/num-to-word",
+    "name": "Jarvishubtech/num-to-word",
     "description": "This package convert a number to word",
     "type": "library",
     "license": "MIT",
@@ -12,8 +12,10 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Jarvishubtech\\NumToWord\\": "src\\"
+            "Jarvishubtech\\NumToWord\\": "package\\num-to-word\\src\\"
         }
     },
-    "require": {}
+    "require": {
+        "php": "7.2"
+    }
 }
