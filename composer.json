@@ -18,5 +18,12 @@
     "require": {
         "php": "7.2",
         "laravel/framework": "6.*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jarvishubtech\\NumToWord\\BDLocationServiceProvider"
+            ]
+        }
     }
 }
