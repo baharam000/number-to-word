@@ -1,6 +1,6 @@
 <?php
 
-namespace Jarvishubtech\NumToWord;
+namespace Media365\NumToWord;
 
 use Illuminate\Support\ServiceProvider;
 

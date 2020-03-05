@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Jarvishubtech\NumToWord;
+namespace Media365\NumToWord;
 
 
 class NumToWord

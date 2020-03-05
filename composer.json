@@ -5,14 +5,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mizbah Ahsan",
+            "name": "K M Mizbah Ul Ahsan",
             "email": "baharam000@gmail.com",
             "role": "Developer"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Media365\\NumToWord\\": "src\\"
+            "Media365\\NumToWord\\": "package\\num-to-word\\src\\"
         }
     },
     "require": {
