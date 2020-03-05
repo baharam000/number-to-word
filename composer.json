@@ -16,7 +16,6 @@
         }
     },
     "require": {
-        "php": "^7.*",
         "laravel/framework": "^7.*"
     },
     "extra": {
