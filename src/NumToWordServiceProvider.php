@@ -9,6 +9,7 @@ class NumToWordServiceProvider extends ServiceProvider
     public function boot()
     {
 
+        $this->mergeConfigFrom(__DIR__. '/config/num-to-word-ind.php', 'num-to-word-ind' );
     }
 
     public function register()
