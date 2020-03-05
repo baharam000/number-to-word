@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Media365\\NumToWord\\": "package\\num-to-word\\src\\"
+            "Media365\\NumToWord\\": "src\\"
         }
     },
     "require": {
