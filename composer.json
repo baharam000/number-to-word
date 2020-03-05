@@ -1,22 +1,25 @@
 {
     "name": "media365/num-to-word",
-    "description": "This package convert a number to word",
+    "description": "This package will convert number to word for Laravel 6.* and up",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Mizbah Ahsan",
-            "email": "baharam000@gmail.com"
+            "email": "baharam000@gmail.com",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Media365\\NumToWord\\": "package\\num-to-word\\src\\"
         }
     },
     "require": {
-        "laravel/framework": "^7.*"
+        "php" : "^7.2.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0|^9.0"
     },
     "extra": {
         "laravel": {
@@ -24,5 +27,6 @@
                 "Media365\\NumToWord\\BDLocationServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
