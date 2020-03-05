@@ -1,5 +1,5 @@
 {
-    "name": "Jarvishubtech/num-to-word",
+    "name": "jarvishubtech/num-to-word",
     "description": "This package convert a number to word",
     "type": "library",
     "license": "MIT",
