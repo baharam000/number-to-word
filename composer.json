@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Media365\\NumToWord\\BDLocationServiceProvider"
+                "Media365\\NumToWord\\NumToWordServiceProvider"
             ]
         }
     },
