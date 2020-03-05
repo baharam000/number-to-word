@@ -1,5 +1,5 @@
 {
-    "name": "media365/num-to-word",
+    "name": "jarvishubtech/num-to-word",
     "description": "This package convert a number to word",
     "type": "library",
     "license": "MIT",
@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Media365\\NumToWord\\BDLocationServiceProvider"
+                "Jarvishubtech\\NumToWord\\BDLocationServiceProvider"
             ]
         }
     }
